@@ -1,5 +1,0 @@
-Improve:
-email [x]
-move IT to front
-remove usless stuff
-update porfolio with latest project
